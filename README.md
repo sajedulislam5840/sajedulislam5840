@@ -68,36 +68,36 @@
 
 ## 🚀 Flagship Projects Spotlight
 
-### 🤖 [Career Switch Prediction System (Supervised ML & Neural Networks)](https://github.com/sajedulislam5840)
-> An end-to-end predictive machine learning classification pipeline analyzing ~19,000 real-world candidate records.
-* **Data Processing & EDA:** Handled missing values (median/mode), encoded categorical attributes (Label/One-Hot), and standardized features with `StandardScaler`.
-* **Class Imbalance Mitigation:** Addressed heavy class skew using class-weight balancing and prioritized Precision, Recall, and ROC-AUC metrics over raw accuracy.
-* **Benchmarking & Modeling:** Evaluated Logistic Regression, K-Nearest Neighbors (KNN with optimal K selection), and Multilayer Perceptron (Neural Network).
-* **Validation:** Verified model stability and zero-overfitting using **Stratified 5-Fold Cross-Validation** alongside unsupervised K-Means clustering.
+### 🤖 [Career Switch Prediction System (Supervised ML & Neural Networks)](https://github.com/sajedulislam5840/CSE422)
+> An end-to-end predictive machine learning classification pipeline analyzing 5,000 real-world candidate records.
+- **Data Processing & EDA:** Handled missing values (median/mode), encoded categorical attributes (Label/One-Hot), and standardized features with `StandardScaler`.
+- **Class Imbalance Mitigation:** Addressed heavy class skew using class-weight balancing and prioritized Precision, Recall, and ROC-AUC metrics over raw accuracy.
+- **Benchmarking & Modeling:** Evaluated Logistic Regression, K-Nearest Neighbors (KNN with optimal K selection), and Multilayer Perceptron (Neural Network).
+- **Validation:** Verified model stability and zero-overfitting using **Stratified 5-Fold Cross-Validation** alongside unsupervised K-Means clustering.
 
 ---
 
 ### ⚡ [SparkEnergies — Electricity Billing & Distribution Platform](https://github.com/sajedulislam5840/CSE370)
 > A centralized, full-stack database web platform engineered to modernize utility management and eliminate ghost billing.
-* **3NF Database Architecture:** Designed conceptual ER/EER models and normalized relational schemas to **3rd Normal Form (3NF)** to eliminate transitive dependencies.
-* **Digital Financial Ledger:** Engineered secure PHP/SQL transaction flows that validate wallet balances, prevent double-billing, and process real-time payments.
-* **Interactive Analytics:** Developed SQL aggregation queries to power 6-month historical consumption visual trends via **Chart.js** and automated PDF invoice generation.
-* **Hardware Allocation Logic:** Implemented dynamic category-matching algorithms to automatically assign smart meters and adjust inventory states.
+- **3NF Database Architecture:** Designed conceptual ER/EER models and normalized relational schemas to **3rd Normal Form (3NF)** to eliminate transitive dependencies.
+- **Digital Financial Ledger:** Engineered secure PHP/SQL transaction flows that validate wallet balances, prevent double-billing, and process real-time payments.
+- **Interactive Analytics:** Developed SQL aggregation queries to power 6-month historical consumption visual trends via **Chart.js** and automated PDF invoice generation.
+- **Hardware Allocation Logic:** Implemented dynamic category-matching algorithms to automatically assign smart meters and adjust inventory states.
 
 ---
 
 ## 📜 Verified Certifications
 
-* 🏅 **Python Essentials 1** — Cisco Networking Academy / OpenEDG ([Verify Credly Badge](https://www.credly.com/earner/earned/badge/93cd27e3-c012-47b7-a723-21ad66551fd5))
-* 🏅 **Introduction to Data Science** — Cisco Networking Academy ([Verify Credly Badge](https://www.credly.com/earner/earned/badge/84fa8f17-93a3-4b54-b1fd-830dcb2f59ac))
+- 🏅 **Python Essentials 1** — Cisco Networking Academy / OpenEDG ([Verify Credly Badge](https://www.credly.com/earner/earned/badge/93cd27e3-c012-47b7-a723-21ad66551fd5))
+- 🏅 **Introduction to Data Science** — Cisco Networking Academy ([Verify Credly Badge](https://www.credly.com/earner/earned/badge/84fa8f17-93a3-4b54-b1fd-830dcb2f59ac))
 
 ---
 
 ## 📊 GitHub Analytics & Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sajedulislam5840&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajedulislam5840&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sajedulislam5840&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajedulislam5840&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
