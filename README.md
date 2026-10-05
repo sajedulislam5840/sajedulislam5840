@@ -68,7 +68,7 @@
 
 ## 🚀 Flagship Projects Spotlight
 
-### 🤖 [Career Switch Prediction System (Supervised ML & Neural Networks)](https://github.com/MirMohammadSajedulIslam5840)
+### 🤖 [Career Switch Prediction System (Supervised ML & Neural Networks)](https://github.com/sajedulislam5840)
 > An end-to-end predictive machine learning classification pipeline analyzing ~19,000 real-world candidate records.
 * **Data Processing & EDA:** Handled missing values (median/mode), encoded categorical attributes (Label/One-Hot), and standardized features with `StandardScaler`.
 * **Class Imbalance Mitigation:** Addressed heavy class skew using class-weight balancing and prioritized Precision, Recall, and ROC-AUC metrics over raw accuracy.
@@ -77,7 +77,7 @@
 
 ---
 
-### ⚡ [SparkEnergies — Electricity Billing & Distribution Platform](https://github.com/MirMohammadSajedulIslam5840/CSE370)
+### ⚡ [SparkEnergies — Electricity Billing & Distribution Platform](https://github.com/sajedulislam5840/CSE370)
 > A centralized, full-stack database web platform engineered to modernize utility management and eliminate ghost billing.
 * **3NF Database Architecture:** Designed conceptual ER/EER models and normalized relational schemas to **3rd Normal Form (3NF)** to eliminate transitive dependencies.
 * **Digital Financial Ledger:** Engineered secure PHP/SQL transaction flows that validate wallet balances, prevent double-billing, and process real-time payments.
@@ -96,12 +96,12 @@
 ## 📊 GitHub Analytics & Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MirMohammadSajedulIslam5840&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MirMohammadSajedulIslam5840&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sajedulislam5840&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajedulislam5840&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirMohammadSajedulIslam5840&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajedulislam5840&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
