@@ -1,30 +1,68 @@
 # Hi there, I'm Mir Mohammad Sajedul Islam 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sajedul-islam-data)
-[![Python Certification](https://img.shields.io/badge/Cisco_Certified-Python_Essentials-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.credly.com/earner/earned/badge/93cd27e3-c012-47b7-a723-21ad66551fd5)
-[![Data Science Badge](https://img.shields.io/badge/Cisco_Certified-Data_Science-005073?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/earner/earned/badge/84fa8f17-93a3-4b54-b1fd-830dcb2f59ac)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammad.sajedul.islam@g.bracu.ac.bd)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Computer+Science+%40+BRAC+University;Data+Specialist+Intern+%40+DataSynthis;Machine+Learning+%26+Relational+Databases;Preparing+for+Graduate+Studies+in+Europe+%F0%9F%87%AA%F0%9F%87%BA" alt="Typing SVG" />
+</p>
 
-🎓 **Computer Science & Engineering** undergrad at **BRAC University, Dhaka**  
-💼 **Data Specialist Intern** at **DataSynthis** — focusing on data validation, auditing, and processing workflows  
-🤖 Passionate about **Machine Learning, Data Science Pipelines, and Relational Database Engineering**  
-🌍 Preparing for **Computer Science & Applied AI studies in Europe** 🇪🇺  
+<p align="center">
+  <a href="https://www.linkedin.com/in/sajedul-islam-data"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.credly.com/earner/earned/badge/93cd27e3-c012-47b7-a723-21ad66551fd5"><img src="https://img.shields.io/badge/Cisco-Python_Essentials-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Cisco Python" /></a>
+  <a href="https://www.credly.com/earner/earned/badge/84fa8f17-93a3-4b54-b1fd-830dcb2f59ac"><img src="https://img.shields.io/badge/Cisco-Data_Science-005073?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Data Science" /></a>
+  <a href="mailto:mohammad.sajedul.islam@g.bracu.ac.bd"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+---
+
+### 👨‍💻 About Me
+- 🎓 **Undergrad:** Computer Science & Engineering at **BRAC University, Dhaka**
+- 💼 **Industry Experience:** Data Specialist Intern at **DataSynthis** (Data validation, auditing, and processing pipelines)
+- 🔬 **Core Interests:** Applied Machine Learning, Exploratory Data Analysis, RDBMS Architecture, and System Design
+- 🌍 **Future Trajectory:** Preparing for **Applied Computer Science & Artificial Intelligence** studies in Europe 🇪🇺
 
 ---
 
 ## 🛠️ Tech Stack & Ecosystem
 
-### 🧠 Data Science, AI & Analytics
-`Python` • `Scikit-Learn` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Neural Networks (MLP)` • `Exploratory Data Analysis (EDA)` • `Feature Engineering` • `K-Means Clustering`
+<p align="left">
+  <b>Data Science & AI:</b><br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neural_Networks-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/K--Means_Clustering-009688?style=flat-square" />
+  <img src="https://img.shields.io/badge/EDA-4CAF50?style=flat-square" />
+</p>
 
-### 🗄️ Database Systems & Data Management
-`MySQL` • `SQL` • `Relational Schema Design (ER/EER)` • `3NF Normalization` • `Data Integrity & Validation` • `ETL Pipelines`
+<p align="left">
+  <b>Databases & Backend:</b><br/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/3NF_Normalization-0288D1?style=flat-square" />
+  <img src="https://img.shields.io/badge/Database_Design_(ER/EER)-5C6BC0?style=flat-square" />
+</p>
 
-### 💻 Web Development & Foundations
-`PHP` • `JavaScript` • `HTML5` • `CSS3` • `Bootstrap 5` • `Chart.js` • `C++` • `Java`
+<p align="left">
+  <b>Web Technologies & Languages:</b><br/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+</p>
 
-### ⚙️ Developer Tools & Environments
-`Git` • `GitHub` • `XAMPP` • `VS Code` • `Jupyter Notebook` • `Linux`
+<p align="left">
+  <b>Tools & Environments:</b><br/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+</p>
 
 ---
 
@@ -39,7 +77,7 @@
 
 ---
 
-### ⚡ [SparkEnergies — Electricity Billing & Distribution Platform](https://github.com/MirMohammadSajedulIslam5840)
+### ⚡ [SparkEnergies — Electricity Billing & Distribution Platform](https://github.com/MirMohammadSajedulIslam5840/CSE370)
 > A centralized, full-stack database web platform engineered to modernize utility management and eliminate ghost billing.
 * **3NF Database Architecture:** Designed conceptual ER/EER models and normalized relational schemas to **3rd Normal Form (3NF)** to eliminate transitive dependencies.
 * **Digital Financial Ledger:** Engineered secure PHP/SQL transaction flows that validate wallet balances, prevent double-billing, and process real-time payments.
@@ -55,13 +93,20 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MirMohammadSajedulIslam5840&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MirMohammadSajedulIslam5840&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MirMohammadSajedulIslam5840&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirMohammadSajedulIslam5840&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-📫 *Open to academic research collaborations, European working student opportunities, and impactful tech projects!*
+<p align="center">
+  📫 <i>Open to academic research collaborations, European working student opportunities, and impactful tech projects!</i><br/>
+  <b>Let's build something great together.</b>
+</p>
