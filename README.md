@@ -76,7 +76,19 @@
 - **Validation:** Verified model stability and zero-overfitting using **Stratified 5-Fold Cross-Validation** alongside unsupervised K-Means clustering.
 
 ---
+### ⚡ [AZS: The Catalyst — AI-Powered EdTech & Coaching Management Platform](https://github.com/sajedulislam5840/AZS-The-Catalyst)
 
+> A production-oriented, full-stack EdTech ecosystem engineered to bring **student learning, academic content delivery, AI assistance, batch management, and subscription control** into a single real-world platform.
+
+* **🎓 Complete Student Learning Ecosystem:** Built a dedicated student portal combining Physics & Chemistry progress tracking, YouTube lecture streaming, resume functionality, personal lecture notes, timestamp-based learning, PDF/Google Drive materials, and an interactive study planner.
+* **🤖 AI-Powered Academic Assistance:** Integrated a conversational AI tutor into the learning workflow, allowing students to ask questions and receive assistance with scientific concepts, formulas, theories, and academic topics.
+* **🛠️ Real-World Admin & Coaching Management:** Developed an administrative console for student management, batch organization, search/filtering, syllabus and chapter management, lecture sequencing, and centralized academic resource management.
+* **💳 Subscription & Access Control:** Implemented subscription-based student access with payment/fee management and rolling access expiration, providing a practical solution for managing real coaching-center operations.
+* **🏗️ Full-Stack System Architecture:** Engineered the platform using **Next.js, React, Tailwind CSS, FastAPI, Python, SQLAlchemy, JWT authentication, and PostgreSQL**, with a separated frontend/backend architecture.
+* **☁️ Cloud Deployment:** Designed the application for real-world deployment using **Vercel for the frontend, Render for the backend, and Neon PostgreSQL for the database**, making the system accessible beyond a local development environment.
+* **🚀 Beyond a University Project:** Designed as a practical EdTech solution rather than a simple academic prototype, combining **software engineering, database design, authentication, cloud deployment, AI integration, and real operational workflows** into one platform.
+
+---
 ### ⚡ [SparkEnergies — Electricity Billing & Distribution Platform](https://github.com/sajedulislam5840/CSE370)
 > A centralized, full-stack database web platform engineered to modernize utility management and eliminate ghost billing.
 - **3NF Database Architecture:** Designed conceptual ER/EER models and normalized relational schemas to **3rd Normal Form (3NF)** to eliminate transitive dependencies.
