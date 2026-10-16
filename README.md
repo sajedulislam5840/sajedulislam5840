@@ -5,10 +5,11 @@
 </p>
 
 <p align="center">
+  <a href="https://sajedulislam5840.github.io/portfolio/"><img src="https://img.shields.io/badge/Live_Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/sajedul-islam-data"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:mohammad.sajedul.islam@g.bracu.ac.bd"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.credly.com/earner/earned/badge/93cd27e3-c012-47b7-a723-21ad66551fd5"><img src="https://img.shields.io/badge/Cisco-Python_Essentials-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Cisco Python" /></a>
   <a href="https://www.credly.com/earner/earned/badge/84fa8f17-93a3-4b54-b1fd-830dcb2f59ac"><img src="https://img.shields.io/badge/Cisco-Data_Science-005073?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Data Science" /></a>
-  <a href="mailto:mohammad.sajedul.islam@g.bracu.ac.bd"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
@@ -17,6 +18,7 @@
 - 🎓 **Undergrad:** Computer Science & Engineering at **BRAC University, Dhaka**
 - 💼 **Industry Experience:** Data Specialist Intern at **DataSynthis** (Focusing on data validation, auditing, and high-throughput processing pipelines)
 - 🔬 **Core Focus:** Applied Machine Learning, Exploratory Data Analysis, Relational Database Architecture, and Full-Stack System Design
+- 🌐 **Interactive Portfolio:** Explore my live work and benchmarks at **[sajedulislam5840.github.io/portfolio](https://sajedulislam5840.github.io/portfolio/)**
 - 🌍 **Trajectory:** Preparing for **Applied Computer Science & Artificial Intelligence** graduate studies in Europe 🇪🇺
 
 ---
@@ -96,4 +98,3 @@
 
 - 🏅 **Python Essentials 1** — Cisco Networking Academy / OpenEDG ([Verify Credly Badge](https://www.credly.com/earner/earned/badge/93cd27e3-c012-47b7-a723-21ad66551fd5))
 - 🏅 **Introduction to Data Science** — Cisco Networking Academy ([Verify Credly Badge](https://www.credly.com/earner/earned/badge/84fa8f17-93a3-4b54-b1fd-830dcb2f59ac))
-
