@@ -185,8 +185,8 @@ A database-centered utility billing application designed to improve utility allo
 
 | Credential | Issuer | Verification |
 |---|---|---|
-| 🏅 Python Essentials 1 | Cisco Networking Academy / OpenEDG | [Cisco Networking Academy](https://www.netacad.com/) |
-| 🏅 Introduction to Data Science | Cisco Networking Academy | [Cisco Networking Academy](https://www.netacad.com/) |
+| 🏅 Python Essentials 1 | Cisco Networking Academy / OpenEDG | [Verify ↗](https://www.credly.com/earner/earned/badge/93cd27e3-c012-47b7-a723-21ad66551fd5) |
+| 🏅 Introduction to Data Science | Cisco Networking Academy | [Verify ↗](https://www.credly.com/earner/earned/badge/84fa8f17-93a3-4b54-b1fd-830dcb2f59ac) |
 
 </div>
 
