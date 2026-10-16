@@ -220,14 +220,12 @@ class Sajedul:
 
 If you're working on something involving machine learning, data engineering, database architecture, or full-stack systems — I'd like to hear about it.
 
-<div align="center">
-<a href="https://sajedulislam5840.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-38bdf8?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>  
-<a href="https://www.linkedin.com/in/sajedul-islam-data"><img src="https://img.shields.io/badge/LinkedIn-a78bfa?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
-<a href="mailto:mohammad.sajedul.islam@g.bracu.ac.bd"><img src="https://img.shields.io/badge/Email-34d399?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
+<div align="center"> <a href="https://sajedulislam5840.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-38bdf8?style=for-the-badge&logo=googlechrome&logoColor=white" /></a> <a href="https://www.linkedin.com/in/sajedul-islam-data"><img src="https://img.shields.io/badge/LinkedIn-a78bfa?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:mohammad.sajedul.islam@g.bracu.ac.bd"><img src="https://img.shields.io/badge/Email-34d399?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,50:0a1628,100:030712&height=100&section=footer" width="100%" alt="footer" /><img src="https://komarev.com/ghpvc/?username=sajedulislam5840&style=flat-square&color=38bdf8&labelColor=0a0f1e&label=Profile+Views" /><br/>
+<img src="https://komarev.com/ghpvc/?username=sajedulislam5840&style=flat-square&color=38bdf8&labelColor=0a0f1e&label=Profile+Views" />
+<br/><br/>
+
 <sub><em>Engineered with intent. Documented with discipline.</em></sub>
 
 <br/>
