@@ -182,7 +182,7 @@ A database-centered utility billing application designed to improve utility allo
 
 ---
 
-## // Currently
+## Currently
 
 ```python
 class Sajedul:
