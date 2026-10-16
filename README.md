@@ -163,7 +163,13 @@ A database-centered utility billing application designed to improve utility allo
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajedulislam5840&theme=tokyonight&hide_border=true&background=0a0f1e&ring=38bdf8&fire=a78bfa&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b" alt="Streak stats" />
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sajedulislam5840&bg_color=0a0f1e&color=94a3b8&line=38bdf8&point=a78bfa&area=true&area_color=38bdf8&hide_border=true&custom_title=Contribution%20Timeline" width="95%" alt="Activity graph" /></div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sajedulislam5840/sajedulislam5840/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sajedulislam5840/sajedulislam5840/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/sajedulislam5840/sajedulislam5840/output/github-contribution-grid-snake-dark.svg" width="95%" />
+</picture>
+
+</div>
 
 ---
 
