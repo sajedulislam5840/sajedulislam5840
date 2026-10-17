@@ -63,80 +63,82 @@ Infrastructure & DevOps
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black&labelColor=0a0f1e" />
 
 </div>
-Flagship Projects
-<table> <tr> <td width="50%" valign="top">
-⚡ AZS: The Catalyst
-AI-Powered EdTech Ecosystem
+## 🚀 Flagship Projects
 
-A production-ready full-stack platform bringing together curriculum delivery, AI tutoring, student progress, role-based batch management, and subscription tracking.
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-Tech Stack
+### ⚡ AZS: The Catalyst
+**AI-Powered EdTech Ecosystem**
 
-Next.js FastAPI Python Neon PostgreSQL
+A production-ready full-stack learning platform unifying structured curriculum sequencing, role-based batch prep, fee verification, and automated subscription guard rails.
 
-Highlights
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/Neon_Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-🤖 Integrated conversational AI tutor
-🎓 Interactive lecture streaming & sequence tracking
-🛠️ Secure administrative dashboard for batch prep
-☁️ Deployed seamlessly across Vercel and Render
-Repository → · Live Demo →
+* 🤖 Dual-model conversational AI tutor (DeepSeek R1 / Groq Fast) with KaTeX math rendering
+* 📚 Interactive lecture sequence management with auto-renumbering (1..N)
+* 🛡️ Secure student batch registry, manual payment approvals, and admin controls
+* ☁️ Cloud architecture deployed across Vercel and Render
 
-</td> <td width="50%" valign="top">
-🛒 Retail Intelligence Engine
-Multi-Source ETL Analytics Pipeline
+[**Repository →**](https://github.com/sajedulislam5840/AZS-The-Catalyst) · [**Live Demo →**](https://azs-the-catalyst.vercel.app/)
 
-An enterprise-grade data engineering pipeline converting raw multi-channel retail transaction logs into Medallion-structured datasets for Business Intelligence.
+</td>
+<td width="50%" valign="top">
 
-Tech Stack
+### 🛒 Retail Intelligence Engine
+**Multi-Source E-Commerce & Retail ETL Pipeline**
 
-Python Pandas Matplotlib Seaborn
+An enterprise-grade data engineering pipeline converting raw transactional logs into Medallion-structured analytical datasets and executive BI dashboards.
 
-Highlights
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Architecture](https://img.shields.io/badge/Architecture-Medallion-047857?style=flat-square)
 
-🏗️ Implements strict Medallion ETL (Raw → Silver → Gold)
-🧹 Automated missing-value logic & data deduplication
-📊 Programmatic executive BI dashboard generation
-💡 Harmonizes global e-commerce and local retail data
-Explore Repository →
+* 🏗️ Layered Medallion ETL Architecture (**Raw → Silver → Gold**)
+* 🧹 Automated null imputation, type coercion, and deduplication logic
+* 📊 Programmatic executive dashboard rendering with Matplotlib & Seaborn
+* 💡 Harmonizes global e-commerce and local POS retail records
 
-</td> </tr> <tr> <td width="50%" valign="top">
-🤖 Career Switch Prediction
-Supervised ML & Neural Networks
+[**Repository →**](https://github.com/sajedulislam5840/amazon-sales-etl-pipeline)
 
-An end-to-end ML classification pipeline using 5,000 professional profiles, with class-weighted optimization mitigating severe target skew.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-Tech Stack
+### 🤖 Career Switch Prediction
+**Supervised ML & Neural Networks**
 
-Scikit-learn MLP KNN Stratified 5-Fold CV
+An end-to-end classification system built on 5,000 professional profiles to predict career transitions under severe class skew.
 
-Reported Metrics
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![MLP](https://img.shields.io/badge/Model-MLP_Network-FF6F00?style=flat-square) ![Validation](https://img.shields.io/badge/CV-Stratified_5--Fold-38bdf8?style=flat-square)
 
-📊 Balanced F1: 0.519
-📈 ROC-AUC: 0.716
-🎯 Target Recall: 0.627
-⚖️ Class distribution: 74.8% / 25.2%
-View Notebook →
+* ⚖️ Mitigated target imbalance (`74.8% / 25.2%`) using class-weighted loss
+* 📈 Benchmarked LR, KNN, and MLP networks against K-Means baseline
+* 🎯 Reported Performance: F1 Score: `0.519` · ROC-AUC: `0.716` · Recall: `0.627`
+* 🔬 Full exploratory data analysis and feature engineering pipeline
 
-</td> <td width="50%" valign="top">
-💡 SparkEnergies
-Utility Billing & Ledger Platform
+[**View Notebook →**](https://github.com/sajedulislam5840/CSE422)
 
-A database-centered utility billing application designed to guarantee transactional safety and improve utility allocation through normalized relational schemas.
+</td>
+<td width="50%" valign="top">
 
-Tech Stack
+### 💡 SparkEnergies
+**Utility Billing & Ledger Platform**
 
-PHP MySQL Chart.js ER/EER Modeling
+A database-centered utility management platform ensuring transactional ledger integrity and consumption transparency.
 
-Highlights
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Schema](https://img.shields.io/badge/Design-3NF_Normalized-a78bfa?style=flat-square)
 
-🗄️ Strict Third Normal Form (3NF) design
-💰 Double-entry transactional wallet safety
-📊 Dynamic 6-month consumption analytics
-🧩 Robust relational entity tracking
-View Schemas →
+* 🗄️ Database architecture strictly normalized to **Third Normal Form (3NF)**
+* 💰 Double-entry transactional wallet safety for bill settlements
+* 📊 Dynamic 6-month utility consumption analytics powered by Chart.js
+* 🧩 Relational ER/EER entity-relationship modeling
 
-</td> </tr> </table>
+[**View Schemas →**](https://github.com/sajedulislam5840/CSE370)
+
+</td>
+</tr>
+</table>
 GitHub Analytics
 <div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=sajedulislam5840&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=38bdf8&icon_color=a78bfa&text_color=94a3b8&ring_color=38bdf8&rank_icon=percentile" alt="GitHub stats" /> &nbsp; <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajedulislam5840&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=38bdf8&text_color=94a3b8&langs_count=8" alt="Top languages" /> <br/><br/><img src="https://github-readme-streak-stats.herokuapp.com/?user=sajedulislam5840&theme=tokyonight&hide_border=true&background=0a0f1e&ring=38bdf8&fire=a78bfa&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b" alt="Streak stats" /> <br/><br/><picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sajedulislam5840/sajedulislam5840/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sajedulislam5840/sajedulislam5840/output/github-contribution-grid-snake.svg"> <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/sajedulislam5840/sajedulislam5840/output/github-contribution-grid-snake-dark.svg" width="95%" /> </picture></div>
 ## 📜 Verified Certifications
