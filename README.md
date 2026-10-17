@@ -139,11 +139,15 @@ View Schemas →
 </td> </tr> </table>
 GitHub Analytics
 <div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=sajedulislam5840&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=38bdf8&icon_color=a78bfa&text_color=94a3b8&ring_color=38bdf8&rank_icon=percentile" alt="GitHub stats" /> &nbsp; <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajedulislam5840&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=38bdf8&text_color=94a3b8&langs_count=8" alt="Top languages" /> <br/><br/><img src="https://github-readme-streak-stats.herokuapp.com/?user=sajedulislam5840&theme=tokyonight&hide_border=true&background=0a0f1e&ring=38bdf8&fire=a78bfa&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b" alt="Streak stats" /> <br/><br/><picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sajedulislam5840/sajedulislam5840/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sajedulislam5840/sajedulislam5840/output/github-contribution-grid-snake.svg"> <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/sajedulislam5840/sajedulislam5840/output/github-contribution-grid-snake-dark.svg" width="95%" /> </picture></div>
-Certifications
+## 📜 Verified Certifications
+
 <div align="center">
-Credential	Issuer	Verification
-🏅 Python Essentials 1	Cisco Networking Academy / OpenEDG	Verify ↗
-🏅 Introduction to Data Science	Cisco Networking Academy	Verify ↗
+
+| Certificate | Issuer | Skills & Competencies Verified | Official Credential |
+| :--- | :--- | :--- | :---: |
+| **Python Essentials 1** | ![Cisco](https://img.shields.io/badge/Cisco_Academy-049FD9?style=flat-square&logo=cisco&logoColor=white) <br/><sub>OpenEDG Python Institute</sub> | Control Flow Logic, Data Structures, OOP Principles, Algorithmic Problem Solving | [<img src="https://img.shields.io/badge/Verify-Credly-38bdf8?style=for-the-badge&logo=credly&logoColor=white" height="28" />](https://www.credly.com/earner/earned/badge/93cd27e3-c012-47b7-a723-21ad66551fd5) |
+| **Introduction to Data Science** | ![Cisco](https://img.shields.io/badge/Cisco_Academy-049FD9?style=flat-square&logo=cisco&logoColor=white) | Data Analysis Lifecycle, Exploratory Data Analysis (EDA), ML Workflow Basics | [<img src="https://img.shields.io/badge/Verify-Credly-38bdf8?style=for-the-badge&logo=credly&logoColor=white" height="28" />](https://www.credly.com/earner/earned/badge/84fa8f17-93a3-4b54-b1fd-830dcb2f59ac) |
+
 </div>
 Currently
 Python
