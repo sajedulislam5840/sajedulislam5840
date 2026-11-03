@@ -28,7 +28,7 @@ Undergraduate Computer Science & Engineering student at **BRAC University** (Dha
 - 🔭 **Working on:** Edge AI runtime optimization (`riscv-edge-ai`), custom hardware accelerators (Verilog 4-way INT8 SIMD), and scalable EdTech platforms.
 - 🌱 **Learning:** RISC-V Computer Architecture, SystemVerilog, High-Performance Systems with C++17.
 - 💬 **Ask me about:** C++, Python, Data Engineering & Validation (SQL), React/Next.js, and Secondary Science Curriculums.
-- 📫 **How to reach me:** [Email](mailto:sajedulislam5840@gmail.com) • [LinkedIn](https://www.linkedin.com) • [Fiverr](https://fiverr.com/sajedulislam5840)
+- 📫 **How to reach me:** [Email](mailto:sajedulislam5840@gmail.com) • [LinkedIn](https://www.linkedin.com) • [Fiverr](https://www.fiverr.com/sellers/sajedulislam584)
 
 ---
 
