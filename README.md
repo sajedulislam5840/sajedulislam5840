@@ -17,6 +17,15 @@
   </tr>
 </table>
 
+<br><br>
+
+<h3><code>sajedul@github ~ $ ./snake.sh</code></h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sajedulislam5840/sajedulislam5840/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sajedulislam5840/sajedulislam5840/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sajedulislam5840/sajedulislam5840/output/github-contribution-grid-snake.svg" width="860">
+</picture>
+
 </div>
 
 ---
