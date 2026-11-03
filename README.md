@@ -1,7 +1,7 @@
 ﻿<div align="center">
 
 <h3><code>sajedul@github ~ $ ./contributions.sh</code></h3>
-<img src="https://raw.githubusercontent.com/sajedulislam5840/sajedulislam5840/main/contrib-heatmap.svg" width="860" />
+<img src="./contrib-heatmap.svg" width="860" />
 
 <br><br>
 
@@ -9,10 +9,10 @@
 <table border="0">
   <tr>
     <td valign="top" align="center">
-      <img src="https://raw.githubusercontent.com/sajedulislam5840/sajedulislam5840/main/sajedul-ascii.svg" width="400" />
+      <img src="./sajedul-ascii.svg" width="390" />
     </td>
     <td valign="top" align="center">
-      <img src="https://raw.githubusercontent.com/sajedulislam5840/sajedulislam5840/main/info-card.svg" width="440" />
+      <img src="./info-card.svg" width="470" />
     </td>
   </tr>
 </table>
