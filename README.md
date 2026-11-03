@@ -9,10 +9,10 @@
 <table border="0">
   <tr>
     <td valign="top" align="center">
-      <img src="./sajedul-ascii.svg" width="390" />
+      <img src="./sajedul-ascii.svg" width="410" />
     </td>
     <td valign="top" align="center">
-      <img src="./info-card.svg" width="470" />
+      <img src="./profile-card.svg" width="450" />
     </td>
   </tr>
 </table>
