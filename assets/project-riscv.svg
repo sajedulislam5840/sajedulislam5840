@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="250" viewBox="0 0 280 250" role="img" aria-label="~/riscv-edge-ai">
+<style>@keyframes fade{from{opacity:0}to{opacity:1}}.r{animation:fade .5s ease-out both}@keyframes sweep{from{transform:scaleX(0)}to{transform:scaleX(1)}}.bar{transform-origin:20px 0;animation:sweep 1.2s ease-out .2s both}@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<rect x="0.75" y="0.75" width="278.5" height="248.5" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+<circle cx="25" cy="22" r="5" fill="#ff5f56"/><circle cx="42" cy="22" r="5" fill="#ffbd2e"/><circle cx="59" cy="22" r="5" fill="#27c93f"/>
+<text x="85" y="26" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12">~/riscv-edge-ai</text>
+<line x1="15" y1="42" x2="265" y2="42" stroke="#21262d"/>
+<text x="20" y="72" fill="#f0f6fc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600">riscv-edge-ai</text>
+<text x="20" y="98" fill="#c9d1d9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13">Integer-only neural network engine,</text>
+<text x="20" y="117" fill="#c9d1d9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13">plus a 4-lane INT8 multiply-accumulate</text>
+<text x="20" y="136" fill="#c9d1d9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13">instruction designed in Verilog.</text>
+<g class="r" style="animation-delay:0.40s"><rect x="20" y="159" width="6" height="6" rx="1" fill="#38bdf8"/><text x="34" y="168" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11">98.21% INT8 on MNIST (FP32 98.23%)</text></g>
+<g class="r" style="animation-delay:0.65s"><rect x="20" y="178" width="6" height="6" rx="1" fill="#38bdf8"/><text x="34" y="187" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11">25,088 RTL vectors, 0 mismatches</text></g>
+<rect x="20" y="212" width="49" height="22" rx="11" fill="none" stroke="#38bdf8" stroke-opacity=".6"/><text x="44.5" y="227" fill="#38bdf8" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" text-anchor="middle">C++17</text>
+<rect x="75" y="212" width="62" height="22" rx="11" fill="none" stroke="#38bdf8" stroke-opacity=".6"/><text x="106.1" y="227" fill="#38bdf8" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" text-anchor="middle">Verilog</text>
+<rect x="143" y="212" width="56" height="22" rx="11" fill="none" stroke="#38bdf8" stroke-opacity=".6"/><text x="171.0" y="227" fill="#38bdf8" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" text-anchor="middle">Python</text>
+<rect class="bar" x="20" y="242" width="240" height="2" rx="1" fill="#38bdf8"/>
+</svg>

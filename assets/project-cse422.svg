@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="250" viewBox="0 0 280 250" role="img" aria-label="~/CSE422">
+<style>@keyframes fade{from{opacity:0}to{opacity:1}}.r{animation:fade .5s ease-out both}@keyframes sweep{from{transform:scaleX(0)}to{transform:scaleX(1)}}.bar{transform-origin:20px 0;animation:sweep 1.2s ease-out .2s both}@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<rect x="0.75" y="0.75" width="278.5" height="248.5" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+<circle cx="25" cy="22" r="5" fill="#ff5f56"/><circle cx="42" cy="22" r="5" fill="#ffbd2e"/><circle cx="59" cy="22" r="5" fill="#27c93f"/>
+<text x="85" y="26" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12">~/CSE422</text>
+<line x1="15" y1="42" x2="265" y2="42" stroke="#21262d"/>
+<text x="20" y="72" fill="#f0f6fc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600">Career switch prediction</text>
+<text x="20" y="98" fill="#c9d1d9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13">Machine learning study on 5,000</text>
+<text x="20" y="117" fill="#c9d1d9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13">candidate profiles, with class</text>
+<text x="20" y="136" fill="#c9d1d9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13">imbalance handled explicitly.</text>
+<g class="r" style="animation-delay:0.40s"><rect x="20" y="159" width="6" height="6" rx="1" fill="#d29922"/><text x="34" y="168" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11">3 models, stratified 5-fold CV</text></g>
+<g class="r" style="animation-delay:0.65s"><rect x="20" y="178" width="6" height="6" rx="1" fill="#d29922"/><text x="34" y="187" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11">Best ROC-AUC 0.716</text></g>
+<rect x="20" y="212" width="56" height="22" rx="11" fill="none" stroke="#d29922" stroke-opacity=".6"/><text x="47.8" y="227" fill="#d29922" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" text-anchor="middle">Python</text>
+<rect x="82" y="212" width="95" height="22" rx="11" fill="none" stroke="#d29922" stroke-opacity=".6"/><text x="129.2" y="227" fill="#d29922" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" text-anchor="middle">scikit-learn</text>
+<rect x="183" y="212" width="56" height="22" rx="11" fill="none" stroke="#d29922" stroke-opacity=".6"/><text x="210.6" y="227" fill="#d29922" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" text-anchor="middle">pandas</text>
+<rect class="bar" x="20" y="242" width="240" height="2" rx="1" fill="#d29922"/>
+</svg>

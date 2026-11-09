@@ -1,58 +1,78 @@
 ﻿<div align="center">
 
-<h3><code>sajedul@github ~ $ ./contributions.sh</code></h3>
-<img src="./contrib-heatmap.svg" width="860" />
+<img src="./assets/hero.svg" width="860" alt="Mir Mohammad Sajedul Islam. CSE student at BRAC University and Data Specialist Intern at DataSynthis. I build AI that runs on cheap hardware." />
 
 <br><br>
 
-<h3><code>sajedul@github ~ $ whoami</code></h3>
 <table border="0">
   <tr>
     <td valign="top" align="center">
-      <img src="./sajedul-ascii.svg" width="410" />
+      <img src="./sajedul-ascii.svg" width="410" alt="ASCII portrait" />
     </td>
     <td valign="top" align="center">
-      <img src="./profile-card.svg" width="450" />
+      <img src="./profile-card.svg" width="450" alt="Profile: BRAC University B.Sc. CSE, Data Specialist Intern at DataSynthis, now working on riscv-edge-ai, based in Dhaka." />
     </td>
   </tr>
 </table>
 
+<br>
+
+<h3><code>sajedul@github ~ $ ls ~/projects</code></h3>
+
+<table border="0">
+  <tr>
+    <td align="center"><a href="https://github.com/sajedulislam5840/riscv-edge-ai"><img src="./assets/project-riscv.svg" width="280" alt="riscv-edge-ai: integer-only neural network engine and a 4-lane INT8 multiply-accumulate instruction in Verilog. 98.21% INT8 accuracy on MNIST; 25,088 RTL test vectors, 0 mismatches." /></a></td>
+    <td align="center"><a href="https://github.com/sajedulislam5840/AZS-The-Catalyst"><img src="./assets/project-azs.svg" width="280" alt="AZS: The Catalyst: learning platform for a physics and chemistry coaching batch, live in a pilot with real students. Next.js, FastAPI, PostgreSQL." /></a></td>
+    <td align="center"><a href="https://github.com/sajedulislam5840/CSE422"><img src="./assets/project-cse422.svg" width="280" alt="Career switch prediction: machine learning study on 5,000 candidate profiles, 3 models with stratified 5-fold cross-validation, best ROC-AUC 0.716." /></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://sajedulislam5840.github.io/riscv-edge-ai/">Live demo</a> · <a href="https://github.com/sajedulislam5840/riscv-edge-ai">Code</a></td>
+    <td align="center"><a href="https://azs-the-catalyst.vercel.app/">Live site</a> · <a href="https://github.com/sajedulislam5840/AZS-The-Catalyst">Code</a></td>
+    <td align="center"><a href="https://github.com/sajedulislam5840/CSE422/blob/main/CSE422_Project.ipynb">Notebook</a> · <a href="https://github.com/sajedulislam5840/CSE422">Code</a></td>
+  </tr>
+</table>
+
+<br>
+
+<h3><code>sajedul@github ~ $ ls ~/stack</code></h3>
+<img src="./assets/stack.svg" width="860" alt="Languages: C++17, Python, Java, Verilog, SQL, TypeScript, JavaScript, HTML/CSS. AI and data: NumPy, pandas, scikit-learn, OpenCV, PostgreSQL, Jupyter. Web: Next.js, React, FastAPI, Tailwind CSS. Hardware and tools: RISC-V, Yosys, Git, GitHub Actions, Docker, Linux, VS Code." />
+
 <br><br>
 
-<h3><code>sajedul@github ~ $ ./snake.sh</code></h3>
+<h3><code>sajedul@github ~ $ linguist</code></h3>
+<img src="./assets/languages.svg" width="860" alt="Languages in my public repositories, measured by GitHub and updated daily." />
+
+<br><br>
+
+<h3><code>sajedul@github ~ $ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="860" alt="Contribution heatmap for the last year" />
+
+<br><br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sajedulislam5840/sajedulislam5840/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sajedulislam5840/sajedulislam5840/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sajedulislam5840/sajedulislam5840/output/github-contribution-grid-snake.svg" width="860">
+  <img alt="Snake eating the contribution graph" src="https://raw.githubusercontent.com/sajedulislam5840/sajedulislam5840/output/github-contribution-grid-snake.svg" width="860">
 </picture>
 
 </div>
 
 ---
 
-# 👨‍💻 Mir Mohammad Sajedul Islam
+### About
 
-Undergraduate Computer Science & Engineering student at **BRAC University** (Dhaka, Bangladesh) and **Data Specialist Intern** at **DataSynthis**.
+- **Working on:** [riscv-edge-ai](https://github.com/sajedulislam5840/riscv-edge-ai), a neural network that runs on 8-bit integers only, and a custom RISC-V instruction in Verilog that does four of its multiplications at once. Next step: cycle counts on the Spike simulator with and without the instruction.
+- **Also building:** [AZS: The Catalyst](https://github.com/sajedulislam5840/AZS-The-Catalyst), a learning platform used in a pilot by a real coaching batch.
+- **Learning:** RISC-V computer architecture, SystemVerilog, and performance-minded C++.
+- **Long-term goal:** affordable AI learning tools for students in Bangladesh who do not have powerful GPUs.
+- **Reach me:** [Email](mailto:sajedulislam5840@gmail.com) · [Fiverr](https://www.fiverr.com/sellers/sajedulislam584)
 
-- 🔭 **Working on:** Edge AI runtime optimization (`riscv-edge-ai`), custom hardware accelerators (Verilog 4-way INT8 SIMD), and scalable EdTech platforms.
-- 🌱 **Learning:** RISC-V Computer Architecture, SystemVerilog, High-Performance Systems with C++17.
-- 💬 **Ask me about:** C++, Python, Data Engineering & Validation (SQL), React/Next.js, and Secondary Science Curriculums.
-- 📫 **How to reach me:** [Email](mailto:sajedulislam5840@gmail.com) • [LinkedIn](https://www.linkedin.com) • [Fiverr](https://www.fiverr.com/sellers/sajedulislam584)
+<details>
+<summary><b>Other work</b></summary>
 
----
+- **SparkEnergies billing and ledger:** a utility billing backend with a normalised (3NF) PostgreSQL schema and a double-entry ledger.
+- **Image inpainting research:** a team literature study on deep learning for image completion and generation.
 
-### 🚀 Flagship Projects
+</details>
 
-- **[riscv-edge-ai](https://github.com/sajedulislam5840)** — Freestanding C++17 runtime with custom Verilog 4-way INT8 SIMD accelerator targeting edge AI inference benchmarked on the Spike simulator.
-- **[AZS: The Catalyst](https://github.com/sajedulislam5840)** — EdTech platform built with Next.js, React, Tailwind CSS, FastAPI, and PostgreSQL featuring RBAC and AI tutor integration.
-- **[SparkEnergies Billing & Ledger](https://github.com/sajedulislam5840)** — High-reliability utility billing backend with a 3NF PostgreSQL schema and ACID-compliant double-entry ledger.
-- **[Career Switch Prediction](https://github.com/sajedulislam5840)** — Supervised machine learning pipeline evaluating class imbalance penalties with stratified 5-fold cross-validation.
-
----
-
-### 🛠️ Tech Stack & Skills
-
-- **Languages:** C++17, Python, Verilog, SQL, JavaScript / TypeScript, HTML5 / CSS3
-- **Frameworks & Libs:** Next.js, React, FastAPI, OpenCV, NumPy, Tailwind CSS
-- **Tools & Platforms:** Git, VS Code, PostgreSQL, Linux, GitHub Actions, Docker
-- **Specializations:** Hardware-Software Co-Design, Edge AI Inference, Data Auditing & Cleaning Pipeline
+<sub>Every card on this page is an SVG generated by the scripts in <a href="./scripts">scripts/</a>. The languages card and the contribution graph are refreshed daily by GitHub Actions.</sub>
