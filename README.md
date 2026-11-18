@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <img src="./assets/hero.svg" width="860" alt="Mir Mohammad Sajedul Islam. CSE student at BRAC University and Data Specialist Intern at DataSynthis. I build AI that runs on cheap hardware." />
 
@@ -23,12 +23,12 @@
   <tr>
     <td align="center"><a href="https://github.com/sajedulislam5840/riscv-edge-ai"><img src="./assets/project-riscv.svg" width="280" alt="riscv-edge-ai: integer-only neural network engine and a 4-lane INT8 multiply-accumulate instruction in Verilog. 4.47x fewer clock cycles per inference on a PicoRV32 core in RTL simulation; 98.21% INT8 accuracy on MNIST; 0 mismatches on 25,088 RTL test vectors." /></a></td>
     <td align="center"><a href="https://github.com/sajedulislam5840/AZS-The-Catalyst"><img src="./assets/project-azs.svg" width="280" alt="AZS: The Catalyst: learning platform for a physics and chemistry coaching batch, live in a pilot with real students. Next.js, FastAPI, PostgreSQL." /></a></td>
-    <td align="center"><a href="https://github.com/sajedulislam5840/CSE422"><img src="./assets/project-cse422.svg" width="280" alt="Career switch prediction: machine learning study on 5,000 candidate profiles, 3 models with stratified 5-fold cross-validation, best ROC-AUC 0.716." /></a></td>
+    <td align="center"><a href="https://github.com/sajedulislam5840/career-switch-prediction"><img src="./assets/project-cse422.svg" width="280" alt="Career switch prediction: machine learning study on 5,000 candidate profiles, 3 models with stratified 5-fold cross-validation, best ROC-AUC 0.716." /></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://sajedulislam5840.github.io/riscv-edge-ai/">Live demo</a> · <a href="https://github.com/sajedulislam5840/riscv-edge-ai">Code</a></td>
     <td align="center"><a href="https://azs-the-catalyst.vercel.app/">Live site</a> · <a href="https://github.com/sajedulislam5840/AZS-The-Catalyst">Code</a></td>
-    <td align="center"><a href="https://github.com/sajedulislam5840/CSE422/blob/main/CSE422_Project.ipynb">Notebook</a> · <a href="https://github.com/sajedulislam5840/CSE422">Code</a></td>
+    <td align="center"><a href="https://github.com/sajedulislam5840/career-switch-prediction">Notebook</a> · <a href="https://github.com/sajedulislam5840/career-switch-prediction">Code</a></td>
   </tr>
 </table>
 
@@ -70,7 +70,7 @@
 <details>
 <summary><b>Other work</b></summary>
 
-- **SparkEnergies billing and ledger:** a utility billing backend with a normalised (3NF) PostgreSQL schema and a double-entry ledger.
+- **SparkEnergies billing platform:** a team project for CSE370 (Database Systems). I co-developed a utility billing system in PHP and MySQL with a 3NF schema, a digital wallet, role-based access and six-month usage analytics.
 - **Image inpainting research:** a team literature study on deep learning for image completion and generation.
 
 </details>
