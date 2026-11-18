@@ -10,7 +10,7 @@
       <img src="./sajedul-ascii.svg" width="410" alt="ASCII portrait" />
     </td>
     <td valign="top" align="center">
-      <img src="./profile-card.svg" width="450" alt="Profile: BRAC University B.Sc. CSE, Data Specialist Intern at DataSynthis, now working on riscv-edge-ai, based in Dhaka." />
+      <img src="./profile-card.svg" width="450" alt="Profile: BRAC University B.Sc. CSE, Data Specialist Intern at DataSynthis, now working on riscv-edge-ai (4.47x fewer cycles), based in Dhaka." />
     </td>
   </tr>
 </table>
@@ -21,7 +21,7 @@
 
 <table border="0">
   <tr>
-    <td align="center"><a href="https://github.com/sajedulislam5840/riscv-edge-ai"><img src="./assets/project-riscv.svg" width="280" alt="riscv-edge-ai: integer-only neural network engine and a 4-lane INT8 multiply-accumulate instruction in Verilog. 98.21% INT8 accuracy on MNIST; 25,088 RTL test vectors, 0 mismatches." /></a></td>
+    <td align="center"><a href="https://github.com/sajedulislam5840/riscv-edge-ai"><img src="./assets/project-riscv.svg" width="280" alt="riscv-edge-ai: integer-only neural network engine and a 4-lane INT8 multiply-accumulate instruction in Verilog. 4.47x fewer clock cycles per inference on a PicoRV32 core in RTL simulation; 98.21% INT8 accuracy on MNIST; 0 mismatches on 25,088 RTL test vectors." /></a></td>
     <td align="center"><a href="https://github.com/sajedulislam5840/AZS-The-Catalyst"><img src="./assets/project-azs.svg" width="280" alt="AZS: The Catalyst: learning platform for a physics and chemistry coaching batch, live in a pilot with real students. Next.js, FastAPI, PostgreSQL." /></a></td>
     <td align="center"><a href="https://github.com/sajedulislam5840/CSE422"><img src="./assets/project-cse422.svg" width="280" alt="Career switch prediction: machine learning study on 5,000 candidate profiles, 3 models with stratified 5-fold cross-validation, best ROC-AUC 0.716." /></a></td>
   </tr>
@@ -61,11 +61,11 @@
 
 ### About
 
-- **Working on:** [riscv-edge-ai](https://github.com/sajedulislam5840/riscv-edge-ai), a neural network that runs on 8-bit integers only, and a custom RISC-V instruction in Verilog that does four of its multiplications at once. Next step: cycle counts on the Spike simulator with and without the instruction.
+- **Working on:** [riscv-edge-ai](https://github.com/sajedulislam5840/riscv-edge-ai), a neural network that runs on 8-bit integers only, and a custom RISC-V instruction in Verilog that does four of its multiplications at once. On a PicoRV32 core simulated cycle by cycle it needs 4.47x fewer clock cycles per digit than an equally unrolled scalar loop, and the [project page](https://sajedulislam5840.github.io/riscv-edge-ai/) replays one neuron's cycles from that simulation.
 - **Also building:** [AZS: The Catalyst](https://github.com/sajedulislam5840/AZS-The-Catalyst), a learning platform used in a pilot by a real coaching batch.
 - **Learning:** RISC-V computer architecture, SystemVerilog, and performance-minded C++.
 - **Long-term goal:** affordable AI learning tools for students in Bangladesh who do not have powerful GPUs.
-- **Reach me:** [Email](mailto:sajedulislam5840@gmail.com) · [Fiverr](https://www.fiverr.com/sellers/sajedulislam584)
+- **Reach me:** [LinkedIn](https://www.linkedin.com/in/sajedul-islam-data/) · [Email](mailto:sajedulislam5840@gmail.com) · [Fiverr](https://www.fiverr.com/sellers/sajedulislam584)
 
 <details>
 <summary><b>Other work</b></summary>
