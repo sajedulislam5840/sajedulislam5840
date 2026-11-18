@@ -17,7 +17,7 @@ NEOFETCH = [
     ("USER", "sajedulislam5840"),
     ("HOST", "BRAC University, B.Sc. CSE"),
     ("ROLE", "Data Specialist Intern, DataSynthis"),
-    ("NOW", "riscv-edge-ai: 4.47x fewer cycles"),
+    ("MAIN", "riscv-edge-ai: 4.47x fewer cycles"),
     ("STACK", "C++17, Python, Verilog, TypeScript"),
     ("DATA", "SQL, PostgreSQL, NumPy, pandas"),
     ("FOCUS", "Edge AI, hardware acceleration"),

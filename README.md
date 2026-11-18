@@ -10,7 +10,7 @@
       <img src="./sajedul-ascii.svg" width="410" alt="ASCII portrait" />
     </td>
     <td valign="top" align="center">
-      <img src="./profile-card.svg" width="450" alt="Profile: BRAC University B.Sc. CSE, Data Specialist Intern at DataSynthis, now working on riscv-edge-ai (4.47x fewer cycles), based in Dhaka." />
+      <img src="./profile-card.svg" width="450" alt="Profile: BRAC University B.Sc. CSE, Data Specialist Intern at DataSynthis, main project riscv-edge-ai (4.47x fewer cycles), based in Dhaka." />
     </td>
   </tr>
 </table>
@@ -61,11 +61,11 @@
 
 ### About
 
-- **Working on:** [riscv-edge-ai](https://github.com/sajedulislam5840/riscv-edge-ai), a neural network that runs on 8-bit integers only, and a custom RISC-V instruction in Verilog that does four of its multiplications at once. On a PicoRV32 core simulated cycle by cycle it needs 4.47x fewer clock cycles per digit than an equally unrolled scalar loop, and the [project page](https://sajedulislam5840.github.io/riscv-edge-ai/) replays one neuron's cycles from that simulation.
+- **Main project:** [riscv-edge-ai](https://github.com/sajedulislam5840/riscv-edge-ai), a neural network that runs on 8-bit integers only, and a custom RISC-V instruction in Verilog that does four of its multiplications at once. On a PicoRV32 core simulated cycle by cycle it needs 4.47x fewer clock cycles per digit than an equally unrolled scalar loop, and the [project page](https://sajedulislam5840.github.io/riscv-edge-ai/) replays one neuron's cycles from that simulation.
 - **Also building:** [AZS: The Catalyst](https://github.com/sajedulislam5840/AZS-The-Catalyst), a learning platform used in a pilot by a real coaching batch.
-- **Learning:** RISC-V computer architecture, SystemVerilog, and performance-minded C++.
+- **Learning next:** SystemVerilog, computer architecture research, and performance-minded C++.
 - **Long-term goal:** affordable AI learning tools for students in Bangladesh who do not have powerful GPUs.
-- **Reach me:** [LinkedIn](https://www.linkedin.com/in/sajedul-islam-data/) · [Email](mailto:sajedulislam5840@gmail.com) · [Fiverr](https://www.fiverr.com/sellers/sajedulislam584)
+- **Reach me:** [LinkedIn](https://www.linkedin.com/in/sajedul-islam-data/) · [Email](mailto:sajedulislam5840@gmail.com)
 
 <details>
 <summary><b>Other work</b></summary>
